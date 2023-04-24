@@ -79,9 +79,9 @@ public class Main {
 
        public static void task3 () {
         System.out.println("Задача 3");
+
         showDeliveryDays(10);
         showDeliveryDays(50);
-        showDeliveryDays(70);
         showDeliveryDays(200);
     }
 }
